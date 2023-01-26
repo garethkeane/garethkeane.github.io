@@ -1,1 +1,1 @@
-![Max graph](https://github.com/garethkeane/GraphingSandbox/blob/main/testing_deeptech_max_graph_mobile_image.png)
+![Max graph](testing_deeptech_max_graph_mobile_image.png)
