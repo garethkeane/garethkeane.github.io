@@ -1,0 +1,1 @@
+![Mobility graph](sector_average_ev_to_revenue_forward_1y_mobility_nospaces_mobile_image.png)
